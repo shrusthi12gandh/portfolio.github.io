@@ -8,7 +8,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### Smart Networking City 
+### Smart Networking System 
 
 OVERVIEW:  
 Key areas include traffic management, resource allocation, and public safety, requiring shortest-path algorithms, 
@@ -61,7 +61,7 @@ intelligent urban environments.
 - SRN: 02FE23BCS168  
 - Course Instructor: Prof.Vaishali parab 
 - University: KLE TECHNOLOGICAL UNIVERSITY
-- Topic: Smart Networking City
+- Topic: Smart Networking System
 
 ---
 
